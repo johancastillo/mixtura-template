@@ -4869,10 +4869,11 @@ ol ul {
     position: fixed;
     left: 0;
     bottom: 0;
-    background: radial-gradient(62.54% 42.86% at 50% 50%, #FF0043 0%, #D80042 31.11%, #A30141 77.38%, #8F0141 100%) !important; } }
+    background: radial-gradient(62.54% 42.86% at 50% 50%, #FF0043 0%, #D80042 31.11%, #A30141 77.38%, #8F0141 100%) !important; }
+  .ed-header .link {
+    color: #FFF !important; }
+  .ed-header .link.active {
+    color: #FFF !important; } }
 
-.ed-header .link.active {
-  color: #FFF !important; }
-
-.ed-header .link {
-  color: #FFF !important; }
+.icon {
+  font-size: 25px !important; }
